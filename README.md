@@ -18,7 +18,7 @@ I am Full Stack Developer with 2 years of experience.I'm passionate about buildi
 ![](https://img.shields.io/badge/Code-Stripe-informational?style=flat&color=informational&logo=stripe)
 
 ## My latest projects
-## 1.Learninng management system
+## 1.Learning management system
 Live: https://nextjs-lms-ashen.vercel.app/ <br>
 Code and demo : https://github.com/rajeshrc12/nextjs-lms <br>
 
