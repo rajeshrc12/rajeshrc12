@@ -20,16 +20,16 @@ I am Full Stack Developer with 2 years of experience.I'm passionate about buildi
 ## My latest projects
 ## 1.Learninng management system
 Live: https://nextjs-lms-ashen.vercel.app/ <br>
-Code: https://github.com/rajeshrc12/nextjs-lms <br>
+Code and demo : https://github.com/rajeshrc12/nextjs-lms <br>
 
 ## 2.Video calling app
 Live: https://meetsphere.vercel.app/ <br>
-Code: https://github.com/rajeshrc12/meetsphere <br>
+Code and demo : https://github.com/rajeshrc12/meetsphere <br>
 
 ## 3.WhatsApp clone
 Live: https://main.daz37dbxioals.amplifyapp.com/ <br>
-Code: https://github.com/rajeshrc12/whatsapp-frontend <br>
+Code and demo : https://github.com/rajeshrc12/whatsapp-frontend <br>
 
 ## 4.AI Saas app
 Live: https://nextjs-ai-saas-seven.vercel.app/ <br>
-Code: https://github.com/rajeshrc12/nextjs-ai-saas <br>
+Code and demo : https://github.com/rajeshrc12/nextjs-ai-saas <br>
