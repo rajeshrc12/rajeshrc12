@@ -1,5 +1,5 @@
 ## 👋 Hello! 
-I am Full Stack Developer with 1.3 years of experience.I'm passionate about building solutions using web technologies. I believe engineering is about creating innovative solutions or enhancing existing ones. With a strong grasp of web technology, I'm always eager to tackle new challenges and improve what's already there.
+I am Full Stack Developer with 2 years of experience.I'm passionate about building solutions using web technologies. I believe engineering is about creating innovative solutions or enhancing existing ones. With a strong grasp of web technology, I'm always eager to tackle new challenges and improve what's already there.
 
 
 ## 🛠️ Technologies & Tools
