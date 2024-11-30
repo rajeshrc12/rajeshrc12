@@ -29,7 +29,3 @@ Code and demo : https://github.com/rajeshrc12/meetsphere <br>
 ## 3.WhatsApp clone
 Live: https://main.daz37dbxioals.amplifyapp.com/ <br>
 Code and demo : https://github.com/rajeshrc12/whatsapp-frontend <br>
-
-## 4.AI Saas app
-Live: https://nextjs-ai-saas-seven.vercel.app/ <br>
-Code and demo : https://github.com/rajeshrc12/nextjs-ai-saas <br>
