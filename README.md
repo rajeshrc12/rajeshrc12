@@ -25,7 +25,3 @@ Code and demo : https://github.com/rajeshrc12/nextjs-lms <br>
 ## 2.Video calling app
 Live: https://meetsphere.vercel.app/ <br>
 Code and demo : https://github.com/rajeshrc12/meetsphere <br>
-
-## 3.WhatsApp clone
-Live: https://main.daz37dbxioals.amplifyapp.com/ <br>
-Code and demo : https://github.com/rajeshrc12/whatsapp-frontend <br>
