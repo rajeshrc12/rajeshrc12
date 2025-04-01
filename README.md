@@ -17,11 +17,7 @@ I am Full Stack Developer with 2 years of experience.I'm passionate about buildi
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&color=informational&logo=express)
 ![](https://img.shields.io/badge/Code-Stripe-informational?style=flat&color=informational&logo=stripe)
 
-## My latest projects
-## 1.Learning management system
-Live: https://nextjs-lms-ashen.vercel.app/ <br>
-Code and demo : https://github.com/rajeshrc12/nextjs-lms <br>
+## Tinyclips - AI Short Video Generator
+Live: https://tinyclips.space <br>
 
-## 2.Video calling app
-Live: https://meetsphere.vercel.app/ <br>
-Code and demo : https://github.com/rajeshrc12/meetsphere <br>
+
