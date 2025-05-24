@@ -17,15 +17,27 @@ I am Full Stack Developer with 2 years of experience.I'm passionate about buildi
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&color=informational&logo=express)
 ![](https://img.shields.io/badge/Code-Stripe-informational?style=flat&color=informational&logo=stripe)
 
-# 🚀 Tinyclips - AI Short Video Generator  
+## 🎬 TinyClips – AI Short Video Generator  
+- **Frontend Repo:** [github.com/rajeshrc12/tinyclips](https://github.com/rajeshrc12/tinyclips)  
+- **Backend Repo:** [github.com/rajeshrc12/tinyclips-backend](https://github.com/rajeshrc12/tinyclips-backend)  
+- **Live Demo:** [tinyclips.space](https://tinyclips.space)
 
-🔗 **GitHub Repo(Frontend):** [Tinyclips](https://github.com/rajeshrc12/tinyclips)  
-🔗 **GitHub Repo(Backend):** [Tinyclips-backend](https://github.com/rajeshrc12/tinyclips-backend)  
-🔗 **Live:** [tinyclips.space](https://tinyclips.space)  
+---
 
-# 🚀 WhatsApp Web Clone  
+## 💬 WhatsApp Web Clone  
+- **Frontend Repo:** [github.com/rajeshrc12/whatsapp-frontend](https://github.com/rajeshrc12/whatsapp-frontend)  
+- **Backend Repo:** [github.com/rajeshrc12/whatsapp-backend](https://github.com/rajeshrc12/whatsapp-backend)  
+- **Live Demo:** [whatsapp-frontend-alpha.vercel.app](https://whatsapp-frontend-alpha.vercel.app)
 
-🔗 **GitHub Repo(Frontend):** [WhatsApp](https://github.com/rajeshrc12/whatsapp-frontend)  
-🔗 **GitHub Repo(Backend):** [WhatsApp-backend](https://github.com/rajeshrc12/whatsapp-backend)  
-🔗 **Live:** [WhatsApp Web](https://whatsapp-frontend-alpha.vercel.app)  
+---
+
+## 📚 Learning Management System (LMS)  
+- **GitHub Repo:** [github.com/rajeshrc12/nextjs-lms](https://github.com/rajeshrc12/nextjs-lms)  
+- **Live Demo:** [nextjs-lms-neon.vercel.app](https://nextjs-lms-neon.vercel.app)
+
+---
+
+## 🎥 Video Calling App  
+- **GitHub Repo:** [github.com/rajeshrc12/meetsphere](https://github.com/rajeshrc12/meetsphere)  
+- **Live Demo:** [meetsphere.vercel.app](https://meetsphere.vercel.app)
  
