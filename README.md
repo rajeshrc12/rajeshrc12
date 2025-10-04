@@ -17,27 +17,9 @@ I am Full Stack Developer with 2 years of experience.I'm passionate about buildi
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&color=informational&logo=express)
 ![](https://img.shields.io/badge/Code-Stripe-informational?style=flat&color=informational&logo=stripe)
 
-## 🎬 TinyClips – AI Short Video Generator  
-- **Frontend Repo:** [github.com/rajeshrc12/tinyclips](https://github.com/rajeshrc12/tinyclips)  
-- **Backend Repo:** [github.com/rajeshrc12/tinyclips-backend](https://github.com/rajeshrc12/tinyclips-backend)  
-- **Live Demo:** [tinyclips.space](https://tinyclips.space)
+## 🎬 Zepr – AI Data Analyst  
+- **Repo:** [github.com/rajeshrc12/zepr](https://github.com/rajeshrc12/zepr)   
+- **Live Demo:** [zepr.live](https://zepr.live)
 
 ---
-
-## 💬 WhatsApp Web Clone  
-- **Frontend Repo:** [github.com/rajeshrc12/whatsapp-frontend](https://github.com/rajeshrc12/whatsapp-frontend)  
-- **Backend Repo:** [github.com/rajeshrc12/whatsapp-backend](https://github.com/rajeshrc12/whatsapp-backend)  
-- **Live Demo:** [whatsapp-frontend-alpha.vercel.app](https://whatsapp-frontend-alpha.vercel.app)
-
----
-
-## 📚 Learning Management System (LMS)  
-- **GitHub Repo:** [github.com/rajeshrc12/nextjs-lms](https://github.com/rajeshrc12/nextjs-lms)  
-- **Live Demo:** [nextjs-lms-neon.vercel.app](https://nextjs-lms-neon.vercel.app)
-
----
-
-## 🎥 Video Calling App  
-- **GitHub Repo:** [github.com/rajeshrc12/meetsphere](https://github.com/rajeshrc12/meetsphere)  
-- **Live Demo:** [meetsphere.vercel.app](https://meetsphere.vercel.app)
  
