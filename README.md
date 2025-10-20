@@ -19,7 +19,7 @@ I am Full Stack Developer with 2 years of experience.I'm passionate about buildi
 
 # Projects
 
-## AI Data Analyst
+## AI Data Analyst (zepr.live)
 An AI-powered data analyst platform designed to simplify data exploration for non-technical users.
 
 ## Features
